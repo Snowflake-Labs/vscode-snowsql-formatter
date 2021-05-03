@@ -29,4 +29,4 @@ vsce package
 
 The build process should produce a VSIX file. We can then simply go to `VSCode -> Extensions -> Install from VSIX` as shown in the image below:
 
-![image](https://user-images.githubusercontent.com/72515998/116859764-241feb00-ac1e-11eb-9609-e2f5d51e9994.png)
+![image](https://user-images.githubusercontent.com/72515998/116860323-01da9d00-ac1f-11eb-83ee-3d4241df15d4.png)
