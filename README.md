@@ -27,7 +27,8 @@ vsce package
 
 II. Install VSIX into VS Code
 
-The build process should produce a VSIX file. We can then go to VSCode -> Extensions -> Install from VSIX as shown in the image below:
+The build process should produce a VSIX file.
+We can then go to VSCode -> Extensions -> Install from VSIX as shown in the image below:
 
 ![image](https://user-images.githubusercontent.com/72515998/116859764-241feb00-ac1e-11eb-9609-e2f5d51e9994.png)
 
