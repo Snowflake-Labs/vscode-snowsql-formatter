@@ -1,6 +1,6 @@
-# Sql Formatter
+# Snowflake SQL Formatter
 
-Format SQL files using the [sql-formatter-plus](https://github.com/kufii/sql-formatter-plus) npm package.
+Format SQL files using the [snowsql-formatter](https://github.com/Snowflake-Labs/snowsql-formatter) npm package. This plugin is a clone of the [vscode-sql-formatter](https://github.com/kufii/vscode-sql-formatter) with some snowflake specific changes added on.
 
 ## Configuration
 
